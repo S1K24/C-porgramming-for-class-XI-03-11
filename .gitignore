@@ -1,0 +1,7 @@
+# Compiled files
+*.exe
+*.out
+*.o
+*.obj
+# Visual Studio / VS Code workspace files
+.vscode/
